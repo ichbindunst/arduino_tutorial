@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.sh": "shellscript",
+    "cmath": "cpp",
+    "twi.c": "cpp"
+  }
+}
